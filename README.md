@@ -66,7 +66,8 @@ Open your web browser and navigate to http://localhost:3000 to view the app.
 ## License
 This project is licensed under the MIT License.
 
-Acknowledgements
+## Acknowledgements
+
 Special thanks to **Somil Saparia**(https://github.com/somilsaparia) who worked along with me throughout this project.
 
 Feel free to customize the README file to include any additional information, Please Contact at pl95534n@pace.edu
