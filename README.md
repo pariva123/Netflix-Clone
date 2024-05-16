@@ -1,6 +1,6 @@
 # Netflix Clone
 
-This is a Netflix clone project built with React.js and Firebase.
+This is a Netflix clone project built with React.js, MongoDB and Firebase.
 
 ## Features
 
