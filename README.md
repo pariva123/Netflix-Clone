@@ -2,6 +2,18 @@
 
 This is a Netflix clone project built with React.js, MongoDB and Firebase.
 
+## Snapshots
+![Login Screenshot](https://github.com/pariva123/Netflix-Clone/blob/9728b936725bff11144a4a69c795f5eab3cc8636/Login%20Page.png "Login Panel")
+![Dashboard Screenshot](https://github.com/pariva123/Netflix-Clone/blob/9728b936725bff11144a4a69c795f5eab3cc8636/Dashboard.png "Dashboard Panel")
+![Movie Screenshot](https://github.com/pariva123/Netflix-Clone/blob/9728b936725bff11144a4a69c795f5eab3cc8636/Movie.png "Movie Panel")
+![Movies Screenshot](https://github.com/pariva123/Netflix-Clone/blob/9728b936725bff11144a4a69c795f5eab3cc8636/Movies%20Category(Action).png "Movies Panel")
+![Movies Panel Screenshot](https://github.com/pariva123/Netflix-Clone/blob/9728b936725bff11144a4a69c795f5eab3cc8636/Movies.png "Movies Panel")
+![Player Screenshot](https://github.com/pariva123/Netflix-Clone/blob/9728b936725bff11144a4a69c795f5eab3cc8636/Player.png "Player Panel")
+![List Screenshot](https://github.com/pariva123/Netflix-Clone/blob/9728b936725bff11144a4a69c795f5eab3cc8636/my_list.png "List Panel")
+![TV Screenshot](https://github.com/pariva123/Netflix-Clone/blob/9728b936725bff11144a4a69c795f5eab3cc8636/tv.png "TV Panel")
+![Authentication Screenshot](https://github.com/pariva123/Netflix-Clone/blob/9728b936725bff11144a4a69c795f5eab3cc8636/Authentication%20Firebase.png "Authentication Panel")
+![API's Screenshot](https://github.com/pariva123/Netflix-Clone/blob/9728b936725bff11144a4a69c795f5eab3cc8636/API's.png "API's")
+
 ## Features
 
 - Browse and watch movies and TV shows
@@ -53,5 +65,8 @@ Open your web browser and navigate to http://localhost:3000 to view the app.
 
 ## License
 This project is licensed under the MIT License.
+
+Acknowledgements
+Special thanks to Somil Saparia(https://github.com/somilsaparia) who worked along with me throughout this project.
 
 Feel free to customize the README file to include any additional information, Please Contact at pl95534n@pace.edu
