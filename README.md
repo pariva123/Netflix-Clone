@@ -16,7 +16,7 @@ This is a Netflix clone project built with React.js, MongoDB and Firebase.
 
 ## Features
 
-- Browse and watch movies and TV shows
+- Browse and watch movies and TV shows.
 - Sign up and log in functionality
 - Search for specific titles
 - Save favorite titles to watch later
